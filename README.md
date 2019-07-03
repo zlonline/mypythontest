@@ -1,3 +1,3 @@
 # mypythontest
 
-This is for testing pycharm project
+This is for testing pycharm making project
